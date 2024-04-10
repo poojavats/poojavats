@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Data Science"/>
+  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="Data Science"/>
 </p>
 
 
