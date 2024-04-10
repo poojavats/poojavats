@@ -1,5 +1,7 @@
 <h1 align="center">Pooja Sharma 👋</h1>
-<h3 align="center">Versatile Full Stack Data Scientist with expertise in data warehousing, BI, and cloud computing. Championing data-driven decision-making with a strong foundation in machine learning, deep learning, and analytics across various industries.</h3>
+<h1 align="center">🚀 Full Stack Data Scientist | Machine Learning Engineer  | Cloud Computing |🤖</h1>
+
+
 <p align="center">
   <img src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" alt="Data Science"/>
 </p>
