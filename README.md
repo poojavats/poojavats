@@ -1,11 +1,9 @@
 <h1 align="center">Pooja Sharma 👋</h1>
-<h1 align="center">🚀 Full Stack Data Scientist | Machine Learning Engineer  | Cloud Computing |🤖</h1>
-
+<h1 align="center">🚀 Full Stack Data Scientist | Machine Learning Engineer | Cloud Computing 🤖</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Data Science"/>
 </p>
-
 
 <!-- Profile Views Counter -->
 <p align="left"> 
@@ -24,8 +22,6 @@
 - **IDE & OS:** Visual Studio 💻, VS Code ✨, Jupyter 📓, Google Colab 🌐, PyCharm 🐍, Databricks 📊, Windows 🪟, Linux 🐧.
 - **Other Tools/Software:** Adobe Analytics 📊, Google Analytics 📈, Salesforce 💼, Microsoft Dynamics 🔄, IBM SPSS 📉, Google Suite 🛠️, Adobe & Google (Internal Tools) 🔧.
 
-
-
 ## 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/pooja-sharma-a31b4123" target="blank">
@@ -37,11 +33,28 @@
 </p>
 
 ## 🛠️ Languages and Tools:
-<p align="left"> 
-  <!-- Icons for languages and tools -->
-  <!-- Add your icons and tools here -->
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  
+  <!-- Cloud and DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
+  
+  <!-- Data Science & ML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojavats&show_icons=true&locale=en&layout=compact" alt="poojavats" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojavats&show_icons=true&locale=en" alt="poojavats" /></p>
+<!-- GitHub Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojavats&show_icons=true&locale=en&layout=compact" alt="poojavats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=poojavats&show_icons=true&locale=en" alt="poojavats" />
+</p>
