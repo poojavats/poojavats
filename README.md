@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" alt="Data Science"/>
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Data Science"/>
 </p>
 
 
