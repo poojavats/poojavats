@@ -65,7 +65,7 @@
 - **Big Data & Analytics:** Big Data Analytics 📚, Apache PySpark 🔥, Hadoop 🐘, BigQuery 🔍, Databricks 📊.
 - **Cloud Computing:** AWS ☁️, Azure 🌌, GCP 🚀, Oracle Cloud ☁️, Adobe Experience Cloud 🌥️.
 - **Data Visualization & BI Tools:** PowerBI 🔌, Tableau 📊, SQL Visualization 📉, SSRS 📑, SSIS 🛠️.
-- **DevOps & CI/CD:** Jenkins 🚧, Docker 🐳, Kubernetes ⚓, Airflow 💨, CI/CD pipelines 🔄.
+- **DevOps & MLOps:** Jenkins 🚧, Docker 🐳, Kubernetes ⚓, Airflow 💨, CI/CD pipelines 🔄.
 - **Cybersecurity Tools:** Wireshark 🦈, Nmap 🗺️, IP Scanner 🔍.
 - **Databases & ETL Tools:** PostgreSQL (pgAdmin) 🐘, MySQL 🛢️, Talend 🔗, ETL/ELT processes 🔄.
 - **IDE & OS:** Visual Studio 💻, VS Code ✨, Jupyter 📓, Google Colab 🌐, PyCharm 🐍, Databricks 📊, Windows 🪟, Linux 🐧.
