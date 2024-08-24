@@ -1,5 +1,5 @@
 <h1 align="center">Pooja Sharma 👋</h1>
-<h1 align="center">🚀 Full Stack Data Scientist | Machine Learning Engineer | Cloud Computing 🤖</h1>
+<h1 align="center">🚀 Full Stack Data Scientist | Machine Learning Engineer | Generative AI Engineer 🤖</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Data Science"/>
